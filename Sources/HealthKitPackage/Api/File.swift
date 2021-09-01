@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct HealthKitManager {
+public struct HealthKitManager {
     
     var name = "State"
     
