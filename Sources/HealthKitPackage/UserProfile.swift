@@ -7,8 +7,16 @@
 
 public struct HealthKitUserProfile {
     
+        
     public let firstName: String
     public let LastName: String
+    
+    
+    public init(firstName : String, lastName: String) {
+        self.firstName = firstName
+        self.LastName = lastName
+    }
+    
     
     
     
