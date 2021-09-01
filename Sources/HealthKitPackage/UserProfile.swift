@@ -5,10 +5,12 @@
 //  Created by Joshua Taylor on 8/31/21.
 //
 
-struct UserProfile {
+public struct HealthKitUserProfile {
     
-    let firstName: String
-    let LastName: String
+    public let firstName: String
+    public let LastName: String
+    
+    
     
 }
 
